@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
-            
+            //This is for testing
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
