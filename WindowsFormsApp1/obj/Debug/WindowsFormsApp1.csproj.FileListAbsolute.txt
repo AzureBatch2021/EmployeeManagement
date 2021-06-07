@@ -7,3 +7,9 @@ C:\Users\DhanyaSri\Source\Repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\Wi
 C:\Users\DhanyaSri\Source\Repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\DhanyaSri\Source\Repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\DhanyaSri\Source\Repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\CHAKKA LAKSHMI\Source\Repos\EmployeeManagement2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\CHAKKA LAKSHMI\Source\Repos\EmployeeManagement2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CHAKKA LAKSHMI\Source\Repos\EmployeeManagement2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CHAKKA LAKSHMI\Source\Repos\EmployeeManagement2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CHAKKA LAKSHMI\Source\Repos\EmployeeManagement2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CHAKKA LAKSHMI\Source\Repos\EmployeeManagement2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
